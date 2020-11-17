@@ -39,6 +39,11 @@ main{
     border-radius: 42px;
 }
 
+img{
+    width: 100%;
+    height: 100%;
+}
+
 @media only screen and (min-width: 800px){
     
     #dog-house{
@@ -49,5 +54,10 @@ main{
         justify-content: center;
         width: 50%;
         
+    }
+
+    img{
+        width: 100%;
+        height: 100%;
     }
 }
